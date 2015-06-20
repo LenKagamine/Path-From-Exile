@@ -2,8 +2,6 @@ import javax.swing.*;
 public class KM_Summative{
     public static void main(String[] args){
 	/*
-	File -> Preferences -> Java -> Additional Class Path Directories ->
-	      (file path to the JLayer1.0.jar file)
 	Controls: left/right = walk
 		  up = jump (up again to double jump)
 		  down = fall faster
